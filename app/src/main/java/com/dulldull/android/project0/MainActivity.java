@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         btn_spotify.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 // Do something in response to button click
-                sendToast ("This button will launch spotify streamer app");
+                sendToast ("This button will launch spotify streamer app ");
             }
         });
 
@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         btn_scores.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 // Do something in response to button click
-                sendToast ("This button will launch scores app");
+                sendToast ("This button will launch scores app ");
             }
         });
 
